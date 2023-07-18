@@ -11,7 +11,7 @@
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "docs-dist"
+    "dist"
   ],
   "scripts": {
     "build": "father build",
@@ -51,8 +51,8 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
-    "@ant-design/pro-components": "^2.6.5",
-    "antd": "^5.7.0"
+    "@ant-design/pro-components": "^2.6.5"
+
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
@@ -78,7 +78,8 @@
   },
   "peerDependencies": {
     "react": ">=16.9.0",
-    "react-dom": ">=16.9.0"
+    "react-dom": ">=16.9.0",
+    "antd": "^5.7.0"
   },
   "publishConfig": {
     "access": "public"
