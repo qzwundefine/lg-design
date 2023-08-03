@@ -1,6 +1,6 @@
 ---
 hero:
-  title: Lg Design
+  title: Lg Design Pro
   description: 菱歌科技定制组件库
   actions:
     - text: 开始使用
@@ -17,4 +17,4 @@ features:
     description: Put ! description here
 ---
 
-lg-design
+lg-design-pro

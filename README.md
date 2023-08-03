@@ -1,7 +1,7 @@
-# lg-design
+# lg-design-pro
 
-[![NPM version](https://img.shields.io/npm/v/lg-design.svg?style=flat)](https://npmjs.org/package/lg-design)
-[![NPM downloads](http://img.shields.io/npm/dm/lg-design.svg?style=flat)](https://npmjs.org/package/lg-design)
+[![NPM version](https://img.shields.io/npm/v/lg-design-pro.svg?style=flat)](https://npmjs.org/package/lg-design-pro)
+[![NPM downloads](http://img.shields.io/npm/dm/lg-design-pro.svg?style=flat)](https://npmjs.org/package/lg-design-pro)
 
 lingeyun components with ant-design & ant-design-pro
 

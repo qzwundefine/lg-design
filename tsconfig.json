@@ -4,12 +4,13 @@
     "declaration": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     "jsx": "react",
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "lg-design": ["src"],
-      "lg-design/*": ["src/*", "*"]
+      "lg-design-pro": ["src"],
+      "lg-design-pro/*": ["src/*", "*"]
     }
   },
   "include": [".dumi/**/*", ".dumirc.ts", "src/**/*"]
